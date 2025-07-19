@@ -29,23 +29,24 @@
 </div>
 <div>
   <h2>Мой основной стек:</h2>
-  <p>— JS/TS</p>
-  <p>— Vue/Nuxt</p>
-  <p>— Vuex/Pinia</p>
-  <p>— REST/Axios</p>
-  <p>— Webpack/Vite</p>
-  <p>— SCSS/Bootstrap/Tailwind/Vuetify/PrimeVue</p>
-  <p>— Express/Nest</p>
-  <p>— PostgreSQL, Apache/Nginx</p>
-  <p>— Git</p>
-  <p>— Linux</p>
-  <p>— Figma</p>
+  <p>⚡ JS/TS</p>
+  <p>⚡ Vue/Nuxt</p>
+  <p>⚡ Vuex/Pinia</p>
+  <p>⚡ REST/Axios</p>
+  <p>⚡ Webpack/Vite</p>
+  <p>⚡ SCSS/Bootstrap/Tailwind/Vuetify/PrimeVue</p>
+  <p>⚡ Express/Nest</p>
+  <p>⚡ PostgreSQL, Apache/Nginx</p>
+  <p>⚡ Git</p>
+  <p>⚡ Linux</p>
+  <p>⚡ Figma</p>
 </div>
 <div>
 <div id="badges">
+  <h2>Контакты:</h2>
   <a href="https://t.me/denosaur98">
     <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0" alt="Telegram"/>
-  </a>
+  </a><br>
   <a href="mailto:denosaur98@yandex.ru">
     <img src="https://img.shields.io/badge/-Почта-red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=red" alt="Email"/>
   </a>
