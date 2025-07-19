@@ -36,7 +36,8 @@
   <p>⚡ Webpack/Vite</p>
   <p>⚡ SCSS/Bootstrap/Tailwind/Vuetify/PrimeVue</p>
   <p>⚡ Express/Nest</p>
-  <p>⚡ PostgreSQL, Apache/Nginx</p>
+  <p>⚡ PostgreSQL/MySQL</p>
+  <p>⚡ Apache/Nginx</p>
   <p>⚡ Git</p>
   <p>⚡ Linux</p>
   <p>⚡ Figma</p>
