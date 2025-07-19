@@ -3,7 +3,7 @@
   <p>В коммерческой разработке с 2022 года</p>
 </div>
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnpxbXU5bWlrN3djcTl0cmdmeXd1ZGhkcndvMGNnZW8xZXFwdXZyNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YTzh3zw4mj1XpjjiIb/giphy.gif" width="500" height="auto"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnpxbXU5bWlrN3djcTl0cmdmeXd1ZGhkcndvMGNnZW8xZXFwdXZyNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YTzh3zw4mj1XpjjiIb/giphy.gif" width="100%" height="auto"/>
 </div>
 <div>
   <h2>Занимался разработкой проектов:</h2>
