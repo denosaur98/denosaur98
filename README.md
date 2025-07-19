@@ -1,9 +1,9 @@
-<div>
+<div id="header">
   <h1>Привет, меня зовут Денис</h1>
   <p>В коммерческой разработке с 2022 года</p>
 </div>
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnpxbXU5bWlrN3djcTl0cmdmeXd1ZGhkcndvMGNnZW8xZXFwdXZyNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YTzh3zw4mj1XpjjiIb/giphy.gif" width="100%" height="auto"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnpxbXU5bWlrN3djcTl0cmdmeXd1ZGhkcndvMGNnZW8xZXFwdXZyNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YTzh3zw4mj1XpjjiIb/giphy.gif" width="500" height="auto"/>
 </div>
 <div>
   <h2>Занимался разработкой проектов:</h2>
@@ -40,6 +40,16 @@
   <p>— Git</p>
   <p>— Linux</p>
   <p>— Figma</p>
+</div>
+<div>
+<div id="badges">
+  <a href="https://t.me/denosaur98">
+    <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0" alt="Telegram"/>
+  </a>
+  <a href="mailto:denosaur98@yandex.ru">
+    <img src="https://img.shields.io/badge/-Почта-red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=red" alt="Email"/>
+  </a>
+</div>
 </div>
 <div align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWlqc2ZjdG5iNDl3cmkzNWF5aHQ4NXZ3c242M3F1N241ZXdjbWdjcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="500" height="auto"/>
