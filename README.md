@@ -46,7 +46,7 @@
   <div id="badges">
     <h2>Контакты:</h2>
     <a href="https://denosaur98.ru">
-      <img src="https://img.shields.io/badge/Сайт-0a3152?style=for-the-badge&logo=internet&logoColor=white" alt="Сайт"/>
+      <img src="https://img.shields.io/badge/Сайт-0a3152?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Сайт"/>
     </a>
     <br>
     <a href="https://t.me/denosaur98">
