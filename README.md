@@ -43,15 +43,32 @@
   <p>⚡ Figma</p>
 </div>
 <div>
-<div id="badges">
-  <h2>Контакты:</h2>
-  <a href="https://t.me/denosaur98">
-    <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0" alt="Telegram"/>
-  </a><br>
-  <a href="mailto:denosaur98@yandex.ru">
-    <img src="https://img.shields.io/badge/-Почта-red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=red" alt="Email"/>
-  </a>
-</div>
+  <div id="badges">
+    <h2>Контакты:</h2>
+    <table>
+      <tr>
+        <td width="200" align="center">
+          <a href="https://denosaur98.ru">
+            <img src="https://img.shields.io/badge/-Сайт-0a3152?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Сайт"/>
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td width="200" align="center">
+          <a href="https://t.me/denosaur98">
+            <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0" alt="Telegram"/>
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td width="200" align="center">
+          <a href="mailto:denosaur98@yandex.ru">
+            <img src="https://img.shields.io/badge/-Почта-red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=red" alt="Email"/>
+          </a>
+        </td>
+      </tr>
+    </table>
+  </div>
 </div>
 <div align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWlqc2ZjdG5iNDl3cmkzNWF5aHQ4NXZ3c242M3F1N241ZXdjbWdjcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="500" height="auto"/>
